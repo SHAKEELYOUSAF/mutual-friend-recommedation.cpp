@@ -158,14 +158,4 @@ Possible enhancements for the system:
 * Add **User Deletion**
 * GUI version of the system
 * Save data using files
-### Output Gallery
-<table>
-  <tr>
-    <td><img src="IMAGE-01.jpeg" width="400"></td>
-    <td><img src="IMAGE-02.jpeg" width="400"></td>
-  </tr>
-  <tr>
-    <td><img src="IMAGE-03.jpeg" width="400"></td>
-    <td><img src="IMAGE-04.jpeg" width="400"></td>
-  </tr>
-</table>
+
